@@ -7,7 +7,7 @@
 
 💻 I know front-end technologies such as HTML, CSS, JavaScript, and back-end technologies including Python, MySQL, Django, and Django REST framework.
 
-💞️ I’m looking to collaborate on Carepulse—a healthcare management system with real-time SMS notifications to streamline the check-up process.
+💞️ I’m looking to collaborate on Carepulse of a real-world project.
 
 📫 You can reach me by email at uhuribhang211@gmail.com.
 
