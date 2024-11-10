@@ -5,7 +5,7 @@
 
 🌱 I’m currently learning Front-End Web Development at Learning Lion ICT campus and specializing in backend engineering at ALX Kenya. I’m also a Computer Science student at Maryland University.
 
-💻 I know front-end technologies such as HTML, CSS, JavaScript, and back-end technologies including Python, MySQL, Django, and Django REST framework.
+💻 I know front-end technologies such as HTML, CSS, JavaScript, and back-end technologies including Python, MySQL, MongoDB, Express, Nodejs, Django, and Django REST framework.
 
 💞️ I’m looking to collaborate on Carepulse of a real-world project.
 
