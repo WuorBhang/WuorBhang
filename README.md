@@ -3,8 +3,8 @@
 👋 Hi, I am Wuor Bhang Gatwech
 
 🌱 I’m currently learning Front-End Web Development for 3 months at
- Learning Lion ICT campus
- I’m also a Foundational Track of Computer and Data Science student at MIT ReACT.
+ Learning Lion ICT campus starting in 30th/September - 23th/December 2024 and
+  I’m also a Foundational Track of Computer and Data Science student at MIT ReACT.
 
 💻 I know front-end technologies such as HTML, CSS, and JavaScript.
 
