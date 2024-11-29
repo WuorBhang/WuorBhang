@@ -18,9 +18,7 @@
 
 | HTML | CSS | Basic JavaScript |
 
-| --- | --- | --- |
-
-<align="center": p>
-I'm a starting my Web Developer Career with 3+ months of experience in designing
+<p: align="center"> I'm a starting my Web Developer Career with 3+ months of
+ experience in designing
  developing user interfaces using HTML, CSS and now I got accepted to MIT-Emerging-Talent
 </P>
