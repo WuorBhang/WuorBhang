@@ -1,22 +1,20 @@
+# WHO AM I
 
-Hi 👋, I'm W U O R B H A N G
+👋 Hi, I am Wuor Bhang Gatwech
 
-Web  Developer</h2>
-</p>
-Email: uhuribhang211@gmail.com </a>
- </br>
+🌱 I’m currently learning Front-End Web Development at Learning Lion ICT campus and
+ specializing in backend engineering at ALX Kenya.
+ I’m also a Foundational Track of Computer and Data Science student at MIT ReACT.
 
-Tel: +254700797210</a>
-</br>
+💻 I know front-end technologies such as HTML, CSS, and JavaScript.
 
-GitHub ProFile: WuorBhang
-  </br>
-</p>
+💞️ I’m looking to collaborate on Carepulse of a real-world project.
 
-# SKILLS
+📫 email:uhuribhang211@gmail.com
 
-| HTML | CSS | Basic JavaScript |
+😄 Pronouns: Him/HE  
 
-I'm a starting my Web Developer Career with 3+ months of
- experience in designing
- developing user interfaces using HTML, CSS and now I got accepted to MIT-Emerging-Talent
+⚡ Fun fact: In programming, the term "bug" comes from an actual insect. In 1947
+, computer scientist Grace Hopper found a moth inside a Mark II computer, which
+ caused a malfunction. She taped the moth into her logbook, marking it as the
+  "first actual case of bug being found."
