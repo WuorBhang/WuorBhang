@@ -13,17 +13,14 @@
 <p align="center">
 <a href="https://www.facebook.com/khorbhang.facebook" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Bhang" height="30" width="40" /></a>
 <a href="https://www.instagram.com/wuorbhang/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wuorbhang" height="30" width="40" /></a>
-<a href="https://x.com/wuorbhang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhang" height="30" width="40" /></a>
-<!-- <a href="https://discor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="5NaT3QCeS9" height="30" width="40" /></a> -->
-</p>
-
+<a href="https://x.com/wuorbhang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhang" height="30"
 # SKILLS
 
 | HTML | CSS | Basic JavaScript |
 
 | --- | --- | --- |
 
-<p align="center">
-I'm a starting my Web Developer Career with 3+ months of experience in designing and
-developing user interfaces using HTML, CSS and now I got accepted to MIT-Emerging-Talent
+<align="center": p>
+I'm a starting my Web Developer Career with 3+ months of experience in designing
+ developing user interfaces using HTML, CSS and now I got accepted to MIT-Emerging-Talent
 </P>
