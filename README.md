@@ -1,16 +1,52 @@
 # WHO AM I
 
-👋 Hi, I am Wuor Bhang Gatwech
+## Hello, I'm Wuor Bhang
 
-🌱 I’m currently learning Front-End Web Development for 3 months at
- Learning Lion ICT campus starting in 30th/September - 23th/December 2024 and
-  I’m also a Foundational Track of Computer and Data Science student at MIT ReACT.
+## Professional Summary
 
-💻 I know front-end technologies such as HTML, CSS, and JavaScript.
+## Backend Developer | 2024 ALX Graduate
 
-💞️ I’m looking to collaborate on Carepulse of a real-world project.
+I am a highly motivated backend developer with a strong foundation in designing,
+ implementing, and maintaining server-side applications.
+ Passionate about developing efficient and scalable systems,
+I specialize in creating reliable backends that ensure smooth data flow and  
+system performance. I am dedicated to continuously learning and applying
+innovative technologies to enhance backend processes  
+and improve user experience.
+
+## Experience
+
+### Database Engineer, Loc-Safe
+
+- Responsible for designing, implementing, and maintaining Loc-Safe's database systems.
+- Optimized database performance, ensuring high availability and scalability.  
+- Managed complex queries and data migration processes for seamless application performance.
+- Collaborated with backend teams to ensure smooth integration
+  between databases and applications.
+- Conducted regular database audits to maintain security and compliance.
+
+## Interests
+
+- Backend development  
+- System architecture and design  
+- Database management  
+- API design and optimization  
+- Continuous learning and coding innovations
+
+## Skills
+
+- Proficient in Node.js, Express, Django, and PostgreSQL  
+- Experience with API development and RESTful services  
+- Strong database management skills (MongoDB, PostgreSQL, SQLite)  
+- Familiar with cloud computing platforms and deployment  
+- Problem-solving, debugging, and optimization
 
 📫 email:uhuribhang211@gmail.com
+
+## Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/wuorbhang)  
+[GitHub](https://github.com/WuorBhang)
 
 😄 Pronouns: Him/HE  
 
