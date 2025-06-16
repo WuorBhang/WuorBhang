@@ -4,10 +4,10 @@
 
 ## Professional Summary
 
-## Backend Developer | 2024 ALX Graduate
+## ALX 12-month Software Engineering Programme | 2023 ALX Graduate
 
-I am a highly motivated backend developer with a strong foundation in designing,
- implementing, and maintaining server-side applications.
+I am a highly motivated backend developer with strong 3+ years of experience in designing,
+ implementing and maintaining server-side applications.
  Passionate about developing efficient and scalable systems,
 I specialize in creating reliable backends that ensure smooth data flow and  
 system performance. I am dedicated to continuously learning and applying
@@ -19,7 +19,7 @@ and improve user experience.
 ### Database Engineer, Loc-Safe
 
 - Responsible for designing, implementing, and maintaining Loc-Safe's database systems.
-- Optimized database performance, ensuring high availability and scalability.  
+- Optimized database performance to ensure high availability and scalability.  
 - Managed complex queries and data migration processes for seamless application performance.
 - Collaborated with backend teams to ensure smooth integration
   between databases and applications.
